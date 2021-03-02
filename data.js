@@ -48,7 +48,14 @@ var APP_DATA = {
           "target": "6-wasser"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+       {
+          "yaw": 2.353874818572386,
+          "pitch": 0.04335171736550336,
+          "title": "Tafel 1<div><br></div>",
+          "text": <img source src='Media/T1.jpg'></img>
+        }
+      ]
     },
     {
       "id": "1-schutzhtte",
