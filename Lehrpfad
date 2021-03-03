@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+	<title>HTML Editor - Full Version</title>
+</head>
+<body>
+<h1>Was m&ouml;chtest Du entdecken? Suche Dir einen Lehrpfad aus und los gehts.&nbsp;</h1>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td style="text-align: center;"><strong>Wie ist das Moor entstanden?&nbsp;</strong></td>
+			<td style="text-align: center;"><strong>Kann sich nach der Abtorfung wieder ein lebende Morr entwicklen?</strong></td>
+			<td style="text-align: center;"><strong>Was machen Schafe im Moor?</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+<h1>&nbsp;</h1>
+</body>
+</html>
