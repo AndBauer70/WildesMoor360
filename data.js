@@ -203,13 +203,13 @@ var APP_DATA = {
           "yaw": -0.14051788600035842,
           "pitch": -0.08440038162082075,
           "title": "Torfschicht",
-          "text": "Hier kann man gut erkennen, wie mächtig die Torschicht einmal war. Schaut ihr in die andere Richtung seht ihr eine Wiese. Die Torfmächtigkeit ist hier etwa 2 Meter. an anderen Standorten konnte die Torfschicht bis zu 12 Meter dick sein.&nbsp;&nbsp;"
+          "text": "Hier kann man gut erkennen, wie mächtig die Torschicht einmal war. Schaut ihr in die andere Richtung seht ihr eine Wiese. Die Torfmächtigkeit ist hier etwa 2 Meter. An anderen Standorten konnte die Torfschicht bis zu 12 Meter dick sein.&nbsp;&nbsp;"
         },
         {
           "yaw": 1.8905678675704722,
           "pitch": 0.0037154063596958053,
           "title": "Grünland<div><br></div>",
-          "text": "Nach dem Abtorfen wurde der Boden gedüngt, so dass heute Grünfutter oder andere Nutzpflanzenangebaut werden können. Ursprünglich ist das Moor sehr nährstoff arm. Deswegen musste es kultiviert werden, umes zum Anbau von Nutzpflanzen nutzbar zu machen."
+          "text": "Nach dem Abtorfen wurde der Boden gedüngt, so dass heute Grünfutter oder andere Nutzpflanzen angebaut werden können. Ursprünglich ist das Moor sehr nährstoff arm. Deswegen musste es kultiviert werden, um es für den Anbau von Nutzpflanzen nutzbar zu machen."
         },
         {
           "yaw": 0.668055792674533,
